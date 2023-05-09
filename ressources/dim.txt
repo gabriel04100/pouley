@@ -1,0 +1,4 @@
+PCA
+https://dridk.me/analyse-en-composante-principale.html
+LDA
+SVD
